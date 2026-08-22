@@ -23,7 +23,7 @@ const ENABLE_THINKING_MODE = false; // Set to true to enable chat_template_kwarg
 // Model mapping (adjust based on available NIM models)
 const MODEL_MAPPING = {
   'gpt-3.5-turbo': 'nvidia/llama-3.1-nemotron-ultra-253b-v1',
-  'dsv3.9': 'deepseek-ai/deepseek-v4-pro',
+  'min': 'minimaxai/minimax-m3',
   'dsv4': 'deepseek-ai/deepseek-v4-flash-0731',
   'glms5': 'z-ai/glm-5.2',
   'qwen': 'qwen/Qwen3.8-2.4T-A95B',
