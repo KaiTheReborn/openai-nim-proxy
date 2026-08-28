@@ -27,7 +27,7 @@ const MODEL_MAPPING = {
   'dsv4': 'deepseek-ai/deepseek-v4-flash-0731',
   'glms5': 'z-ai/glm-5.2',
   'qwen': 'qwen/Qwen3.8-2.4T-A95B',
-  'claude-3-sonnet': 'openai/gpt-oss-20b',
+  'kim': 'moonshotai/kimi-k3',
   'gemini-pro': 'qwen/qwen3-next-80b-a3b-thinking' 
 };
 
