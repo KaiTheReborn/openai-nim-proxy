@@ -25,7 +25,7 @@ const MODEL_MAPPING = {
   'bds4': 'deepseek-ai/deepseek-v4-pro-0813',
   'min': 'minimaxai/minimax-m3',
   'dsv4': 'deepseek-ai/deepseek-v4-flash-0731',
-  'glms5': 'z-ai/glm-5-3',
+  'glms5': 'z-ai/glm-5.3',
   'qwen': 'qwen/Qwen3.8-2.4T-A95B',
   'kim': 'moonshotai/kimi-k3',
   'gemini-pro': 'qwen/qwen3-next-80b-a3b-thinking' 
