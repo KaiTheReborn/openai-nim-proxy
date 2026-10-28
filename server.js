@@ -24,7 +24,7 @@ const ENABLE_THINKING_MODE = false; // Set to true to enable chat_template_kwarg
 const MODEL_MAPPING = {
   'bds4': 'deepseek-ai/deepseek-v4-pro-0813',
   'min': 'minimaxai/minimax-m3',
-  'dsv4': 'deepseek-ai/deepseek-v4-flash-0731',
+  'dsv4': 'deepseek-ai/deepseek-v4.1-flash',
   'glms5': 'z-ai/glm-5.3',
   'qwen': 'qwen/Qwen3.8-2.4T-A95B',
   'kim': 'moonshotai/kimi-k3',
