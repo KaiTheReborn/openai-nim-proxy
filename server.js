@@ -22,7 +22,7 @@ const ENABLE_THINKING_MODE = true; // Set to true to enable chat_template_kwargs
 
 // Model mapping (adjust based on available NIM models)
 const MODEL_MAPPING = {
-  'bds4': 'deepseek-ai/deepseek-v4-pro-0813',
+  'mimi': 'minimaxai/minimax-m3.1-flash',
   'misty': 'mistralai/mistral-large-4-1t-a52b',
   'dsv4': 'deepseek-ai/deepseek-v4.1-flash',
   'glms5': 'z-ai/glm-5.3-flash',
