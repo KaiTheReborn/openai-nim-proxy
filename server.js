@@ -23,7 +23,7 @@ const ENABLE_THINKING_MODE = false; // Set to true to enable chat_template_kwarg
 // Model mapping (adjust based on available NIM models)
 const MODEL_MAPPING = {
   'mimi': 'minimaxai/minimax-m3.1-flash',
-  'misty': 'mistralai/mistral-large-4-1t-a52b',
+  'memestic': 'mistralai/mistral-large-4-1t-a52b',
   'dsv4': 'deepseek-ai/deepseek-v4.1-flash',
   'glms5': 'z-ai/glm-5.3-flash',
   'qwen': 'qwen/Qwen3.8-2.4T-A95B',
